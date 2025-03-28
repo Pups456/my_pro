@@ -14,3 +14,4 @@ def calculate_perimeter(width, length):
 print(calculate_perimeter(2, 6))
 >>>>>>> f328c23 (Second commit)
 
+print("исправил")
