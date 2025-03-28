@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def calculate_area(shape, **params):
     if shape == "rectangle":
         return params["width"] * params["height"]
@@ -6,3 +7,10 @@ def calculate_area(shape, **params):
         return pi * (params["radius"] ** 2)
     else:
         raise ValueError("Unsupported shape")
+=======
+def calculate_perimeter(width, length):
+    return f"Периметр фигуры: {(width+length)*2}"
+
+print(calculate_perimeter(2, 6))
+>>>>>>> f328c23 (Second commit)
+
