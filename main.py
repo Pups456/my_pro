@@ -14,6 +14,8 @@ def calculate_perimeter(width, length):
 print(calculate_perimeter(2, 6))
 
 print(" qwdfdgf")
+
+print("fgsjfnhsdfjhosdfnsl r")
 >>>>>>> f328c23 (Second commit)
 
 
