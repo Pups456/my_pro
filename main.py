@@ -12,6 +12,7 @@ def calculate_perimeter(width, length):
     return f"Периметр фигуры: {(width+length)*2}"
 
 print(calculate_perimeter(2, 6))
+print("исправил")
 >>>>>>> f328c23 (Second commit)
 
-print("исправил")
+
